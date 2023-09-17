@@ -9,3 +9,5 @@ This tool is Mac only since it uses AppleScript to send commands to Wirecast. In
 - Edit `.env.example` to match your Wirecast document name and rename to `.env
 - `npm start`
 - Send requests
+
+Originally inspired by [jakobo/wirecast-utilities](https://github.com/iamjohnbarker/wirecast-applescript).
